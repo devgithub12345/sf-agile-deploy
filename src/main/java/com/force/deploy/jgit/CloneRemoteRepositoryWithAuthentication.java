@@ -54,7 +54,7 @@ import org.apache.tools.ant.ProjectHelper;
 
 public class CloneRemoteRepositoryWithAuthentication {
 		
-	private static final String WORKING_DIR = "deploystore/"; 
+	private static final String WORKING_DIR = "https://github.com/devgithub12345/"; 
 	// Dummy session ID not valid for use
 	private static final String SESSION_ID = "00D4C0000000eee!ARcAQKdfbYQbNDennacI8kdHh9sN0CpbV2aOcJ8EcCA6w3pFBdUmDrtUVupDWfMwLmjDkgmkP6oXAYa.uhBsDNjhIBjAYwos";
 	
